@@ -1,4 +1,4 @@
-# Vehicle Registration System using Binary Search Tree (BST)
+# Vehicle Database Management using BST
 
 ## Application of Trees (BST)
 
